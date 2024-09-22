@@ -47,38 +47,38 @@
         },
         {
             "name": "Kotte",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Kotte",
+            "status": "RELEASED"
         },
         {
             "name": "Kaduwela",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Kaduwela",
+            "status": "RELEASED"
         },
         {
             "name": "Avissawella",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Avissawella",
+            "status": "RELEASED"
         },
         {
             "name": "Homagama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Homagama",
+            "status": "RELEASED"
         },
         {
             "name": "Maharagama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Maharagama",
+            "status": "RELEASED"
         },
         {
             "name": "Kesbewa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Kesbewa",
+            "status": "RELEASED"
         },
         {
             "name": "Moratuwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Colombo&pd_division=Moratuwa",
+            "status": "RELEASED"
         }
     ],
     "Gampaha": [
@@ -89,68 +89,68 @@
         },
         {
             "name": "Wattala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Wattala",
+            "status": "RELEASED"
         },
         {
-            "name": "Negombo",
-            "url": null,
-            "status": "PENDING"
+            "name": "Negambo",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Negambo",
+            "status": "RELEASED"
         },
         {
             "name": "Katana",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Katana",
+            "status": "RELEASED"
         },
         {
             "name": "Divulapitiya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Divulapitiya",
+            "status": "RELEASED"
         },
         {
             "name": "Mirigama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Mirigama",
+            "status": "RELEASED"
         },
         {
             "name": "Minuwangoda",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Minuwangoda",
+            "status": "RELEASED"
         },
         {
             "name": "Attanagalla",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Attanagalla",
+            "status": "RELEASED"
         },
         {
             "name": "Gampaha",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Gampaha",
+            "status": "RELEASED"
         },
         {
             "name": "Ja-Ela",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Ja-Ela",
+            "status": "RELEASED"
         },
         {
             "name": "Mahara",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Mahara",
+            "status": "RELEASED"
         },
         {
             "name": "Dompe",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Dompe",
+            "status": "RELEASED"
         },
         {
             "name": "Biyagama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Biyagama",
+            "status": "RELEASED"
         },
         {
             "name": "Kelaniya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Gampaha&pd_division=Kelaniya",
+            "status": "RELEASED"
         }
     ],
     "Kalutara": [
@@ -161,43 +161,43 @@
         },
         {
             "name": "Panadura",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Panadura",
+            "status": "RELEASED"
         },
         {
             "name": "Bandaragama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Bandaragama",
+            "status": "RELEASED"
         },
         {
             "name": "Horana",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Horana",
+            "status": "RELEASED"
         },
         {
             "name": "Bulathsinhala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Bulathsinhala",
+            "status": "RELEASED"
         },
         {
             "name": "Matugama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Matugama",
+            "status": "RELEASED"
         },
         {
             "name": "Kalutara",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Kalutara",
+            "status": "RELEASED"
         },
         {
             "name": "Beruwala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Beruwala",
+            "status": "RELEASED"
         },
         {
             "name": "Agalawatta",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kalutara&pd_division=Agalawatta",
+            "status": "RELEASED"
         }
     ],
     "Mahanuwara": [
@@ -280,50 +280,50 @@
         },
         {
             "name": "Dambulla",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matale&pd_division=Dambulla",
+            "status": "RELEASED"
         },
         {
             "name": "Laggala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matale&pd_division=Laggala",
+            "status": "RELEASED"
         },
         {
             "name": "Matale",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matale&pd_division=Matale",
+            "status": "RELEASED"
         },
         {
             "name": "Rattota",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matale&pd_division=Rattota",
+            "status": "RELEASED"
         }
     ],
-    "NuwaraEliya": [
+    "Nuwaraeliya": [
         {
             "name": "Postal Votes",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Nuwaraeliya&pd_division=Postal%20Votes",
+            "status": "RELEASED"
         },
         {
-            "name": "Nuwaraeliya-Maskeliya",
-            "url": null,
-            "status": "PENDING"
+            "name": "N.E.Maskeliya",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Nuwaraeliya&pd_division=N.E.Maskeliya",
+            "status": "RELEASED"
         },
         {
-            "name": "Kotmale",
-            "url": null,
-            "status": "PENDING"
+            "name": "Kothmale",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Nuwaraeliya&pd_division=Kothmale",
+            "status": "RELEASED"
         },
         {
-            "name": "Hanguranketa",
-            "url": null,
-            "status": "PENDING"
+            "name": "Hanguranketha",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Nuwaraeliya&pd_division=Hanguranketha",
+            "status": "RELEASED"
         },
         {
             "name": "Walapane",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Nuwaraeliya&pd_division=Walapane",
+            "status": "RELEASED"
         }
     ],
     "Galle": [
@@ -390,14 +390,14 @@
             "status": "RELEASED"
         },
         {
-            "name": "Deniya",
-            "url": null,
-            "status": "PENDING"
+            "name": "Deniyaya",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matara&pd_division=Deniyaya",
+            "status": "RELEASED"
         },
         {
             "name": "Hakmana",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Matara&pd_division=Hakmana",
+            "status": "RELEASED"
         },
         {
             "name": "Akuressa",
@@ -553,9 +553,9 @@
             "status": "RELEASED"
         },
         {
-            "name": "Padiruppu",
-            "url": null,
-            "status": "PENDING"
+            "name": "Paddiruppu",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Batticaloa&pd_division=Paddiruppu",
+            "status": "RELEASED"
         }
     ],
     "Digamadulla": [
@@ -602,9 +602,9 @@
             "status": "RELEASED"
         },
         {
-            "name": "Mutur",
-            "url": null,
-            "status": "PENDING"
+            "name": "Muthur",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Trincomalee&pd_division=Muthur",
+            "status": "RELEASED"
         }
     ],
     "Kurunegala": [
@@ -615,23 +615,23 @@
         },
         {
             "name": "Galgamuwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Galgamuwa",
+            "status": "RELEASED"
         },
         {
             "name": "Nikaweratiya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Nikaweratiya",
+            "status": "RELEASED"
         },
         {
             "name": "Yapahuwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Yapahuwa",
+            "status": "RELEASED"
         },
         {
             "name": "Hiriyala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Hiriyala",
+            "status": "RELEASED"
         },
         {
             "name": "Wariyapola",
@@ -639,29 +639,29 @@
             "status": "RELEASED"
         },
         {
-            "name": "Panduwasnuwara",
-            "url": null,
-            "status": "PENDING"
+            "name": "Paduwasnuwara",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Paduwasnuwara",
+            "status": "RELEASED"
         },
         {
             "name": "Bingiriya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Bingiriya",
+            "status": "RELEASED"
         },
         {
             "name": "Katugampola",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Katugampola",
+            "status": "RELEASED"
         },
         {
             "name": "Kuliyapitiya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Kuliyapitiya",
+            "status": "RELEASED"
         },
         {
             "name": "Dambadeniya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Dambadeniya",
+            "status": "RELEASED"
         },
         {
             "name": "Polgahawela",
@@ -675,13 +675,13 @@
         },
         {
             "name": "Mawathagama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Mawathagama",
+            "status": "RELEASED"
         },
         {
             "name": "Dodangaslanda",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kurunegala&pd_division=Dodangaslanda",
+            "status": "RELEASED"
         }
     ],
     "Puttalam": [
@@ -692,28 +692,28 @@
         },
         {
             "name": "Puttalam",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Puttalam&pd_division=Puttalam",
+            "status": "RELEASED"
         },
         {
             "name": "Anamaduwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Puttalam&pd_division=Anamaduwa",
+            "status": "RELEASED"
         },
         {
-            "name": "Chilaw",
-            "url": null,
-            "status": "PENDING"
+            "name": "Chillaw",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Puttalam&pd_division=Chillaw",
+            "status": "RELEASED"
         },
         {
             "name": "Nattandiya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Puttalam&pd_division=Nattandiya",
+            "status": "RELEASED"
         },
         {
             "name": "Wennappuwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Puttalam&pd_division=Wennappuwa",
+            "status": "RELEASED"
         }
     ],
     "Anuradhapura": [
@@ -734,8 +734,8 @@
         },
         {
             "name": "AnuradhapuraEast",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Anuradhapura&pd_division=AnuradhapuraEast",
+            "status": "RELEASED"
         },
         {
             "name": "AnuradhapuraWest",
@@ -787,19 +787,19 @@
             "status": "RELEASED"
         },
         {
-            "name": "Mahiyangane",
-            "url": null,
-            "status": "PENDING"
+            "name": "Mahiyangana",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Mahiyangana",
+            "status": "RELEASED"
         },
         {
             "name": "Wiyaluwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Wiyaluwa",
+            "status": "RELEASED"
         },
         {
             "name": "Passara",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Passara",
+            "status": "RELEASED"
         },
         {
             "name": "Badulla",
@@ -807,29 +807,29 @@
             "status": "RELEASED"
         },
         {
-            "name": "Hali-Ela",
-            "url": null,
-            "status": "PENDING"
+            "name": "Haliela",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Haliela",
+            "status": "RELEASED"
         },
         {
-            "name": "Uva-Paranagama",
-            "url": null,
-            "status": "PENDING"
+            "name": "Uvaparanagama",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Uvaparanagama",
+            "status": "RELEASED"
         },
         {
             "name": "Welimada",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Welimada",
+            "status": "RELEASED"
         },
         {
             "name": "Bandarawela",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Bandarawela",
+            "status": "RELEASED"
         },
         {
-            "name": "Haputale",
-            "url": null,
-            "status": "PENDING"
+            "name": "Haputhale",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Badulla&pd_division=Haputhale",
+            "status": "RELEASED"
         }
     ],
     "Monaragala": [
@@ -839,9 +839,9 @@
             "status": "RELEASED"
         },
         {
-            "name": "Bibile",
-            "url": null,
-            "status": "PENDING"
+            "name": "Bibila",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Monaragala&pd_division=Bibila",
+            "status": "RELEASED"
         },
         {
             "name": "Moneragala",
@@ -850,8 +850,8 @@
         },
         {
             "name": "Wellawaya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Monaragala&pd_division=Wellawaya",
+            "status": "RELEASED"
         }
     ],
     "Ratnapura": [
@@ -886,9 +886,9 @@
             "status": "RELEASED"
         },
         {
-            "name": "Nivitigala",
-            "url": null,
-            "status": "PENDING"
+            "name": "Nivithigala",
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Ratnapura&pd_division=Nivithigala",
+            "status": "RELEASED"
         },
         {
             "name": "Kalawana",
@@ -909,13 +909,13 @@
         },
         {
             "name": "Dedigama",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Dedigama",
+            "status": "RELEASED"
         },
         {
             "name": "Galigamuwa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Galigamuwa",
+            "status": "RELEASED"
         },
         {
             "name": "Kegalle",
@@ -924,18 +924,18 @@
         },
         {
             "name": "Rambukkana",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Rambukkana",
+            "status": "RELEASED"
         },
         {
             "name": "Mawanella",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Mawanella",
+            "status": "RELEASED"
         },
         {
             "name": "Aranayake",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Aranayake",
+            "status": "RELEASED"
         },
         {
             "name": "Yatiyantota",
@@ -944,13 +944,13 @@
         },
         {
             "name": "Ruwanwella",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Ruwanwella",
+            "status": "RELEASED"
         },
         {
             "name": "Deraniyagala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Deraniyagala",
+            "status": "RELEASED"
         }
     ]
 }
