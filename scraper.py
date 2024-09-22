@@ -121,4 +121,8 @@ def get_division_results():
                     json.dump([result.__dict__ for result in results], f, indent=4)
 
 
+get_all_island_results()
+# get_districts()
+# get_division_results()
+
 driver.quit()
