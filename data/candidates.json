@@ -1,0 +1,230 @@
+[
+	{
+		"id": 1,
+		"name": "AKMEEMANA DAYARATHANA THERO",
+		"party": "IND1",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND1.png"
+	},
+	{
+		"id": 2,
+		"name": "ABUBAKAR MOHAMED INFAS",
+		"party": "DUA",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/DUA.png"
+	},
+	{
+		"id": 3,
+		"name": "SIRIPALA AMARASINGHE",
+		"party": "IND2",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND2.png"
+	},
+	{
+		"id": 4,
+		"name": "K.K. PIYADASA",
+		"party": "IND4",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND4.png"
+	},
+	{
+		"id": 5,
+		"name": "SARATH KEERTHIRATHNA",
+		"party": "IND5",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND5.png"
+	},
+	{
+		"id": 6,
+		"name": "K.A. KULARATNA",
+		"party": "IND6",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND6.png"
+	},
+	{
+		"id": 7,
+		"name": "K.R. KRISHAN",
+		"party": "APP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/APP.png"
+	},
+	{
+		"id": 8,
+		"name": "PALLIMULLA KAPUGAMAGE ANURA SIDNEY JAYARATHNA",
+		"party": "IND7",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND7.png"
+	},
+	{
+		"id": 9,
+		"name": "DILITH JAYAWEERA",
+		"party": "SLCP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SLCP.png"
+	},
+	{
+		"id": 10,
+		"name": "SIRITUNGA JAYASURIYA",
+		"party": "USP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/USP.png"
+	},
+	{
+		"id": 11,
+		"name": "MYLVAGANAM THILAKARAJAH",
+		"party": "IND8",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND8.png"
+	},
+	{
+		"id": 12,
+		"name": "AGAMPODI PRASANGA SURANJEEWA ANOJ DE SILVA",
+		"party": "DUNF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/DUNF.png"
+	},
+	{
+		"id": 13,
+		"name": "LALITH DE SILVA",
+		"party": "UNFF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/UNFF.png"
+	},
+	{
+		"id": 14,
+		"name": "AJANTHA DE ZOYSA",
+		"party": "RJA",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/RJA.png"
+	},
+	{
+		"id": 15,
+		"name": "ANURA KUMARA DISSANAYAKE",
+		"party": "NPP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/NPP.png"
+	},
+	{
+		"id": 16,
+		"name": "MAHINDA DEWAGE",
+		"party": "SLSP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SLSP.png"
+	},
+	{
+		"id": 17,
+		"name": "ARIYANETHIRAN PAKKIYASELVAM",
+		"party": "IND9",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND9.png"
+	},
+	{
+		"id": 18,
+		"name": "VICTOR PERERA",
+		"party": "IND10",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND10.png"
+	},
+	{
+		"id": 19,
+		"name": "ANURUDDHA POLGAMPALA",
+		"party": "IND11",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND11.png"
+	},
+	{
+		"id": 20,
+		"name": "SAJITH PREMADASA",
+		"party": "SJB",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SJB.png"
+	},
+	{
+		"id": 21,
+		"name": "SARATH FONSEKA",
+		"party": "IND12",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND12.png"
+	},
+	{
+		"id": 22,
+		"name": "DISSANAYAKA MUDIYANSELAGE BANDARANAYAKE",
+		"party": "IND13",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND13.png"
+	},
+	{
+		"id": 23,
+		"name": "SARATH BANDARANAYAKE",
+		"party": "NDF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/NDF.png"
+	},
+	{
+		"id": 24,
+		"name": "BATHTHARAMULLE SEELARATHANA THERO",
+		"party": "JSP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/JSP.png"
+	},
+	{
+		"id": 25,
+		"name": "NUWAN BOPEGE",
+		"party": "SPF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SPF.png"
+	},
+	{
+		"id": 26,
+		"name": "SARATH MANAMENDRA",
+		"party": "NSU",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/NSU.png"
+	},
+	{
+		"id": 27,
+		"name": "PEMASIRI MANAGE",
+		"party": "IND14",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND14.png"
+	},
+	{
+		"id": 28,
+		"name": "ANURUDDHA ROSHAN RANASINGHE",
+		"party": "IND15",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND15.png"
+	},
+	{
+		"id": 29,
+		"name": "JANAKA RATNAYAKE",
+		"party": "ELPP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/ELPP.png"
+	},
+	{
+		"id": 30,
+		"name": "NAMAL RAJAPAKSHA",
+		"party": "SBP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SBP.png"
+	},
+	{
+		"id": 31,
+		"name": "NAMAL RAJAPAKSA",
+		"party": "SLPP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SLPP.png"
+	},
+	{
+		"id": 32,
+		"name": "WIJEYADASA RAJAPAKSHE",
+		"party": "JPF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/JPF.png"
+	},
+	{
+		"id": 33,
+		"name": "A.S.P. LIYANAGE",
+		"party": "SLLP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SLLP.png"
+	},
+	{
+		"id": 34,
+		"name": "KEERTHIE WICKRAMARATNE",
+		"party": "AJP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/AJP.png"
+	},
+	{
+		"id": 35,
+		"name": "PRIYANTHA WICKRAMASINGHE",
+		"party": "NSSP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/NSSP.png"
+	},
+	{
+		"id": 36,
+		"name": "RANIL WICKREMESINGHE",
+		"party": "IND16",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/IND16.png"
+	},
+	{
+		"id": 37,
+		"name": "PANI WIJESIRIWARDENA",
+		"party": "SEP",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/SEP.png"
+	},
+	{
+		"id": 38,
+		"name": "OSHALA HERATH",
+		"party": "NIF",
+		"symbol": "https://www.results.elections.gov.lk/assets/images/symbols/NIF.png"
+	}
+]
