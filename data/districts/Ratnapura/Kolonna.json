@@ -1,0 +1,230 @@
+[
+    {
+        "party": "NPP",
+        "candidate": "ANURA KUMARA DISSANAYAKE",
+        "votes": "55,788",
+        "percentage": "44.67%"
+    },
+    {
+        "party": "SJB",
+        "candidate": "SAJITH PREMADASA",
+        "votes": "45,074",
+        "percentage": "36.09%"
+    },
+    {
+        "party": "IND16",
+        "candidate": "RANIL WICKREMESINGHE",
+        "votes": "15,238",
+        "percentage": "12.2%"
+    },
+    {
+        "party": "SLPP",
+        "candidate": "NAMAL RAJAPAKSA",
+        "votes": "4,301",
+        "percentage": "3.44%"
+    },
+    {
+        "party": "SLCP",
+        "candidate": "DILITH JAYAWEERA",
+        "votes": "1,313",
+        "percentage": "1.05%"
+    },
+    {
+        "party": "IND4",
+        "candidate": "K.K. PIYADASA",
+        "votes": "363",
+        "percentage": "0.29%"
+    },
+    {
+        "party": "IND13",
+        "candidate": "DISSANAYAKA MUDIYANSELAGE BANDARANAYAKE",
+        "votes": "335",
+        "percentage": "0.27%"
+    },
+    {
+        "party": "JPF",
+        "candidate": "WIJEYADASA RAJAPAKSHE",
+        "votes": "236",
+        "percentage": "0.19%"
+    },
+    {
+        "party": "IND12",
+        "candidate": "SARATH FONSEKA",
+        "votes": "204",
+        "percentage": "0.16%"
+    },
+    {
+        "party": "IND11",
+        "candidate": "ANURUDDHA POLGAMPALA",
+        "votes": "195",
+        "percentage": "0.16%"
+    },
+    {
+        "party": "APP",
+        "candidate": "K.R. KRISHAN",
+        "votes": "169",
+        "percentage": "0.14%"
+    },
+    {
+        "party": "SBP",
+        "candidate": "NAMAL RAJAPAKSHA",
+        "votes": "156",
+        "percentage": "0.12%"
+    },
+    {
+        "party": "IND5",
+        "candidate": "SARATH KEERTHIRATHNA",
+        "votes": "149",
+        "percentage": "0.12%"
+    },
+    {
+        "party": "SPF",
+        "candidate": "NUWAN BOPEGE",
+        "votes": "126",
+        "percentage": "0.1%"
+    },
+    {
+        "party": "RJA",
+        "candidate": "AJANTHA DE ZOYSA",
+        "votes": "119",
+        "percentage": "0.1%"
+    },
+    {
+        "party": "DUNF",
+        "candidate": "AGAMPODI PRASANGA SURANJEEWA ANOJ DE SILVA",
+        "votes": "111",
+        "percentage": "0.09%"
+    },
+    {
+        "party": "IND10",
+        "candidate": "VICTOR PERERA",
+        "votes": "101",
+        "percentage": "0.08%"
+    },
+    {
+        "party": "NSSP",
+        "candidate": "PRIYANTHA WICKRAMASINGHE",
+        "votes": "96",
+        "percentage": "0.08%"
+    },
+    {
+        "party": "IND1",
+        "candidate": "AKMEEMANA DAYARATHANA THERO",
+        "votes": "94",
+        "percentage": "0.08%"
+    },
+    {
+        "party": "USP",
+        "candidate": "SIRITUNGA JAYASURIYA",
+        "votes": "89",
+        "percentage": "0.07%"
+    },
+    {
+        "party": "IND2",
+        "candidate": "SIRIPALA AMARASINGHE",
+        "votes": "70",
+        "percentage": "0.06%"
+    },
+    {
+        "party": "IND14",
+        "candidate": "PEMASIRI MANAGE",
+        "votes": "68",
+        "percentage": "0.05%"
+    },
+    {
+        "party": "JSP",
+        "candidate": "BATHTHARAMULLE SEELARATHANA THERO",
+        "votes": "58",
+        "percentage": "0.05%"
+    },
+    {
+        "party": "NDF",
+        "candidate": "SARATH BANDARANAYAKE",
+        "votes": "54",
+        "percentage": "0.04%"
+    },
+    {
+        "party": "SLSP",
+        "candidate": "MAHINDA DEWAGE",
+        "votes": "52",
+        "percentage": "0.04%"
+    },
+    {
+        "party": "DUA",
+        "candidate": "ABUBAKAR MOHAMED INFAS",
+        "votes": "49",
+        "percentage": "0.04%"
+    },
+    {
+        "party": "IND6",
+        "candidate": "K.A. KULARATNA",
+        "votes": "34",
+        "percentage": "0.03%"
+    },
+    {
+        "party": "NIF",
+        "candidate": "OSHALA HERATH",
+        "votes": "34",
+        "percentage": "0.03%"
+    },
+    {
+        "party": "AJP",
+        "candidate": "KEERTHIE WICKRAMARATNE",
+        "votes": "27",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "SEP",
+        "candidate": "PANI WIJESIRIWARDENA",
+        "votes": "26",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "IND9",
+        "candidate": "ARIYANETHIRAN PAKKIYASELVAM",
+        "votes": "24",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "UNFF",
+        "candidate": "LALITH DE SILVA",
+        "votes": "22",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "IND15",
+        "candidate": "ANURUDDHA ROSHAN RANASINGHE",
+        "votes": "22",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "IND7",
+        "candidate": "PALLIMULLA KAPUGAMAGE ANURA SIDNEY JAYARATHNA",
+        "votes": "20",
+        "percentage": "0.02%"
+    },
+    {
+        "party": "IND8",
+        "candidate": "MYLVAGANAM THILAKARAJAH",
+        "votes": "18",
+        "percentage": "0.01%"
+    },
+    {
+        "party": "NSU",
+        "candidate": "SARATH MANAMENDRA",
+        "votes": "17",
+        "percentage": "0.01%"
+    },
+    {
+        "party": "ELPP",
+        "candidate": "JANAKA RATNAYAKE",
+        "votes": "15",
+        "percentage": "0.01%"
+    },
+    {
+        "party": "SLLP",
+        "candidate": "A.S.P. LIYANAGE",
+        "votes": "14",
+        "percentage": "0.01%"
+    }
+]

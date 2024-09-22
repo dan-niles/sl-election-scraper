@@ -122,7 +122,7 @@ def get_division_results():
 
 
 get_all_island_results()
-# get_districts()
-# get_division_results()
+get_districts()
+get_division_results()
 
 driver.quit()

@@ -744,8 +744,8 @@
         },
         {
             "name": "Kalawewa",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Anuradhapura&pd_division=Kalawewa",
+            "status": "RELEASED"
         },
         {
             "name": "Mihinthale",
@@ -845,8 +845,8 @@
         },
         {
             "name": "Moneragala",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Monaragala&pd_division=Moneragala",
+            "status": "RELEASED"
         },
         {
             "name": "Wellawaya",
@@ -897,8 +897,8 @@
         },
         {
             "name": "Kolonna",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Ratnapura&pd_division=Kolonna",
+            "status": "RELEASED"
         }
     ],
     "Kegalle": [
@@ -919,8 +919,8 @@
         },
         {
             "name": "Kegalle",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Kegalle",
+            "status": "RELEASED"
         },
         {
             "name": "Rambukkana",
@@ -939,8 +939,8 @@
         },
         {
             "name": "Yatiyantota",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Kegalle&pd_division=Yatiyantota",
+            "status": "RELEASED"
         },
         {
             "name": "Ruwanwella",
