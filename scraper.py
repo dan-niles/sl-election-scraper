@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
+import os
 
 
 class ElectionResult:
@@ -89,6 +90,35 @@ def get_districts():
     # write to json
     with open("./data/districts.json", "w") as f:
         json.dump(districts, f, indent=4)
+
+
+def get_division_results():
+    # load json file
+    with open("./data/districts.json", "r") as f:
+        districts = json.load(f)
+
+    for district_name, divisions in districts.items():
+        # create a folder for each district
+        district_folder = f"./data/districts/{district_name}"
+        os.makedirs(district_folder, exist_ok=True)
+        for division in divisions:
+            if division["status"] == "RELEASED":
+                driver.get(division["url"])
+                table_container = driver.find_element(By.CLASS_NAME, "table-responsive")
+                table = table_container.find_element(By.XPATH, "./table/tbody")
+                child_elements = table.find_elements(By.XPATH, "./*")
+                results = []
+                for child in child_elements:
+                    result = child.text.split("\n")
+                    result = ElectionResult(result[1], result[0], result[2], result[3])
+                    results.append(result)
+
+                # Sort results by votes
+                results.sort(key=lambda x: int(x.votes.replace(",", "")), reverse=True)
+
+                # write to json
+                with open(f"{district_folder}/{division['name']}.json", "w") as f:
+                    json.dump([result.__dict__ for result in results], f, indent=4)
 
 
 driver.quit()
