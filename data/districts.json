@@ -228,8 +228,8 @@
         },
         {
             "name": "Teldeniya",
-            "url": null,
-            "status": "PENDING"
+            "url": "https://www.results.elections.gov.lk/division_results.php?district=Mahanuwara&pd_division=Teldeniya",
+            "status": "RELEASED"
         },
         {
             "name": "Kundasale",
