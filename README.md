@@ -10,7 +10,7 @@ Install Selenium using pip:
 pip install selenium
 ```
 
-Install the ChromeDriver from [here](https://developer.chrome.com/docs/chromedriver/downloads) and add it to your PATH. If using Chrome 115 or newer, download ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
+Download ChromeDriver from [here](https://developer.chrome.com/docs/chromedriver/downloads) and add it to your PATH. If using Chrome 115 or newer, download ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 
 ## Usage
 
